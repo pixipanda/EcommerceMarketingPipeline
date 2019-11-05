@@ -1,0 +1,5 @@
+/.idea
+/target
+/build-files
+/spark-warehouse
+EcommerceMarketingPipeline.iml
